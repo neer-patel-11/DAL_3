@@ -1,3 +1,7 @@
+Name :- Neer Patel
+
+Roll no :- DA25M021
+
 # Fraud Detection – Resampling Methods Analysis
 
 ## 📋 Overview
